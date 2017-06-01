@@ -4,9 +4,9 @@
 <p>Paulo Duarte </p>
 <p>Robson Bacarin</p>
 <p>Rodrigo Batista</p>
-#Procure pelo histórico de versões dos seguintes itens de software:
+# Procure pelo histórico de versões dos seguintes itens de software:
 
-#IOS
+# IOS
 <p>iPhone OS 1, lançado em  3 de março de 2008</p>
 <p>iPhone OS 2, lançado junto com Iphone 3g</p>
 <p>iPhone OS 3, lançado em 17 de junho de 2009</p>
@@ -19,7 +19,7 @@
 <p>iOS 10 : setembro de 2016, Atual.</p>
 <p>IOS 11: Release do beta agendado para 5 de junho.</p>
 
-#Android:
+# Android:
 <p>Android 1.6. Donut.</p>
 <p>Android 2.1. Eclair.</p>
 <p>Android 2.2. Froyo.</p>
@@ -33,8 +33,7 @@
 <p>Android 6.0 - Marshmallow</p>
 <p>Android 7.0 - Nougat</p>
 
-
-#Office:
+# Office:
 <p>Versão atual	</p>
 <p>Office 4.0	</p>
 <p>Office 4.2	</p>
